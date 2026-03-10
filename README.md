@@ -13,6 +13,7 @@
 Как установить:
 
 Шаг 1: Скачай все 9 файлов:
+
 code-reviewer.md
 test-runner.md
 test-analyst.md
@@ -22,10 +23,12 @@ software-architect.md
 design-team.md
 content-team.md
 text-polisher.md
+
 Шаг 2: Создай папку в проекте
 
-В корне проекта, там, где лежит package.json или другие главные файлы, создай папку:
-.claude/agents/
+В корне проекта, там, где лежит package.json или другие главные файлы, 
+
+создай папку: .claude/agents/
 Claude Code автоматически подхватывает агентов из папки .claude/agents/. Никаких дополнительных настроек не нужно.
 
 Как вызывать агентов
